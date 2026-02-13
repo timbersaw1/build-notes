@@ -97,3 +97,4 @@
 2026-02-13 18:32:41 - added pipeline detail
 2026-02-13 18:32:49 - updated config
 2026-02-13 18:32:56 - updated environment var
+2026-02-13 18:33:03 - modified build step
