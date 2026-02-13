@@ -180,3 +180,4 @@
 2026-02-13 21:16:22 - refined script
 2026-02-13 21:16:30 - updated config
 2026-02-13 21:16:37 - adjusted config logic
+2026-02-13 21:16:44 - improved deployment note
