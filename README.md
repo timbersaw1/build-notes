@@ -5,3 +5,4 @@
 2026-02-13 14:58:04 - refined script
 2026-02-13 14:58:11 - modified build step
 2026-02-13 14:58:18 - added pipeline detail
+2026-02-13 14:58:26 - improved deployment note
