@@ -88,3 +88,4 @@
 2026-02-13 18:31:35 - minor automation tweak
 2026-02-13 18:31:43 - adjusted config logic
 2026-02-13 18:31:50 - minor automation tweak
+2026-02-13 18:31:57 - added pipeline detail
