@@ -16,3 +16,4 @@
 2026-02-13 14:59:23 - improved deployment note
 2026-02-13 14:59:31 - updated environment var
 2026-02-13 14:59:38 - modified build step
+2026-02-13 14:59:46 - adjusted config logic
