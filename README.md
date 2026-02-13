@@ -159,3 +159,4 @@
 2026-02-13 21:13:50 - added pipeline detail
 2026-02-13 21:13:57 - cleaned script section
 2026-02-13 21:14:04 - adjusted parameter
+2026-02-13 21:14:11 - improved deployment note
