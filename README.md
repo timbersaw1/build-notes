@@ -251,3 +251,4 @@
 2026-02-13 21:24:58 - modified build step
 2026-02-13 21:25:05 - modified build step
 2026-02-13 21:25:13 - refined script
+2026-02-13 21:25:20 - adjusted config logic
