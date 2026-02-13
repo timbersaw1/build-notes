@@ -34,3 +34,4 @@
 2026-02-13 15:01:36 - minor automation tweak
 2026-02-13 15:01:43 - improved deployment note
 2026-02-13 15:01:50 - added pipeline detail
+2026-02-13 15:01:58 - refined script
