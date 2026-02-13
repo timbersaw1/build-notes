@@ -153,3 +153,4 @@
 2026-02-13 18:39:32 - minor automation tweak
 2026-02-13 18:39:40 - refined script
 2026-02-13 21:13:20 - refined script
+2026-02-13 21:13:28 - adjusted config logic
