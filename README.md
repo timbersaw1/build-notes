@@ -229,3 +229,4 @@
 2026-02-13 21:22:18 - improved deployment note
 2026-02-13 21:22:25 - updated config
 2026-02-13 21:22:32 - improved deployment note
+2026-02-13 21:22:40 - adjusted config logic
