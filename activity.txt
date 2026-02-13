@@ -453,3 +453,4 @@
 2026-02-13 21:17:13 - updated config
 2026-02-13 21:17:20 - cleaned script section
 2026-02-13 21:17:28 - updated config
+2026-02-13 21:17:35 - adjusted config logic
