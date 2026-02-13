@@ -11,3 +11,4 @@
 2026-02-13 14:58:47 - refined script
 2026-02-13 14:58:54 - added pipeline detail
 2026-02-13 14:59:02 - updated config
+2026-02-13 14:59:09 - adjusted config logic
