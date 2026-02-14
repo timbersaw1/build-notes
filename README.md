@@ -262,3 +262,4 @@
 2026-02-14 13:04:21 - cleaned script section
 2026-02-14 13:04:28 - adjusted config logic
 2026-02-14 13:04:35 - updated config
+2026-02-14 13:04:43 - improved deployment note
