@@ -266,3 +266,4 @@
 2026-02-14 13:04:50 - adjusted config logic
 2026-02-14 13:04:57 - updated config
 2026-02-14 13:05:04 - modified build step
+2026-02-14 13:05:12 - updated environment var
